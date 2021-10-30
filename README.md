@@ -1,6 +1,8 @@
-Introduction to Supervised Learning - Logistic Regression
--
+# Introduction to Supervised Learning - Logistic Regression
+![](images/image1.png)
+![](images/image2.png)
 Context
+-
 Use this heart disease classification dataset to predict which patients are most likely to suffer from a heart disease in the near future using the features given.
 
 (Please open ipynb on jupyter notebook or google colab)
